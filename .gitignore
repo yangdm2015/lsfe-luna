@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+.history
+.vscode
+package-lock.json
+yarn-error.log
+ESLintReport.html
+/node_modules/
+/_build/docs_serve/
+/test/unit/coverage/
